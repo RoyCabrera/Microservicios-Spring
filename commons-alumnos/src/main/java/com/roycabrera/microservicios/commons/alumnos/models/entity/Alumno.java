@@ -20,7 +20,7 @@ public class Alumno {
 
     @NotEmpty
     private String apellido;
-
+//prueba
     @NotEmpty
     @Email
     private String email;
